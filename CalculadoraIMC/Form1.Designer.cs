@@ -127,9 +127,9 @@
             // 
             this.btnCalcular.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.btnCalcular.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCalcular.Location = new System.Drawing.Point(144, 123);
+            this.btnCalcular.Location = new System.Drawing.Point(144, 106);
             this.btnCalcular.Name = "btnCalcular";
-            this.btnCalcular.Size = new System.Drawing.Size(120, 30);
+            this.btnCalcular.Size = new System.Drawing.Size(120, 47);
             this.btnCalcular.TabIndex = 1;
             this.btnCalcular.Text = "Calcular IMC";
             this.btnCalcular.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
@@ -140,9 +140,9 @@
             // 
             this.btnLimpiar.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.btnLimpiar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnLimpiar.Location = new System.Drawing.Point(425, 123);
+            this.btnLimpiar.Location = new System.Drawing.Point(425, 106);
             this.btnLimpiar.Name = "btnLimpiar";
-            this.btnLimpiar.Size = new System.Drawing.Size(100, 30);
+            this.btnLimpiar.Size = new System.Drawing.Size(100, 47);
             this.btnLimpiar.TabIndex = 2;
             this.btnLimpiar.Text = "Limpiar";
             this.btnLimpiar.UseVisualStyleBackColor = false;
